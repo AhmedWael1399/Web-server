@@ -1,0 +1,5 @@
+GET index.html 127.0.0.1 12345
+GET index.html 127.0.0.1 12345
+GET im.png 127.0.0.1 12345
+GET dta.txt 127.0.0.1 12345
+POST ptrial.txt 127.0.0.1 12345
